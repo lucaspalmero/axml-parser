@@ -1,0 +1,16 @@
+{
+    "name": "palmero/axml-er",
+    "description": "A small AXML parser, meant to be used with Android's AAPT output",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Palmero",
+            "email": "lucas@placeholder.com.ar"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": { "Palmero\\": "src/" }
+	}
+}
