@@ -1,6 +1,6 @@
 {
     "name": "palmero/axml-parser",
-    "description": "A small AML parser, designed to handle Android's AAPT output",
+    "description": "A small AXML parser, designed to handle Android's AAPT output",
     "type": "library",
     "license": "MIT",
     "authors": [
